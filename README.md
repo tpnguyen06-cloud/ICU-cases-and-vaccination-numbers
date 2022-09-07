@@ -6,4 +6,4 @@ The objective of this project was to determine the relationship between ICU curr
 
 This study will answer the following research question:
 
-** Can a polynomial regression accurately predict the future ICU cases given the number of people got vaccinated?
+Can a polynomial regression accurately predict the future ICU cases given the number of people got vaccinated? 
